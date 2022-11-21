@@ -1,0 +1,53 @@
+mark {
+   background-color: lightcoral ;
+    color: #00008b;
+    font-family: cursive
+}
+
+#navbar{
+   display:flex;
+   justify-content:space-evenly;
+   background-color:blue;
+   
+}
+
+#navbar a{
+   color:white;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+mark1 {
+   background-color: yellowgreen ;
+    color: red;
+    font-family: 'Lucida Sans'
+}
+
+
+mark2 {
+   background-color: #9d7dab;
+    color: #063027;
+    font-family: Arial
+}
+
+mark3 {
+   background-color: #e3c774;
+   color:#2f104a;
+   font-family: Cambria
+}
+
+mark4 {
+   background-color: #0b2385;
+   color: #fa4141;
+   font-family: Verdana
+}
+
+
+mark5 {
+   background-color: #e8e11e;
+   color: #080807;
+   font-family: Helvetica
+}
+
+body {
+   background-image: url(images.jpg);
+}
